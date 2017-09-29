@@ -1,0 +1,320 @@
+.outdive {
+	
+     padding: 0px;
+
+}
+
+.back {
+	position: fixed;
+	top: 20px;
+	left: 24px;
+	width: 50px;
+	height: 50px;
+	margin: 0px;
+	z-index: 300;
+	
+}
+
+.titulo{
+	font-family: fredericka-the-great;
+	background-color: #1599F4;
+	max-width: 1024px;
+	margin-top: 192px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	font-style: normal;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bolder;
+	height: auto;
+}
+
+.innerdive {
+	margin: 0 auto;
+    max-width: 1024px; 
+}
+
+.header {
+	background-color: #1599F4;
+	height: auto;
+	max-width: 1024px;
+}
+
+.quienSoy-left{
+	background-color: #1599F4;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	width: 47.33%;
+	height: auto;
+	background-size: 159px auto;
+	background-position: 5% 80%;
+	line-height: 500px;
+	margin-left: 87px;
+	background-repeat: no-repeat;
+	margin-top: 82px;
+	margin-bottom: -399px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-image: url(../images/IMG_20161002_133700.jpg);
+}
+
+.quienSoy-rigth{
+	background-color: #057BDE;
+	font-size: 20px;
+	float: right;
+	width: 71%;
+	height: auto;
+	background-repeat: no-repeat;
+	padding-right: 4px;
+	margin-right: 18px;
+	margin-top: 167px;
+	
+}
+.trabajos-left {
+	background-color: #1599F4;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	width: 47.33%;
+	height: 658px;
+	background-size: 200px auto;
+	background-position: 84% 0%;
+	line-height: 500px;
+	margin-left: 87px;
+	background-repeat: no-repeat;
+	margin-top: 99px;
+	margin-bottom: -166px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.trabajos1-rigth {
+	background-color: #057BDE;
+	font-size: 20px;
+	float: right;
+	width: 71%;
+	height: auto;
+	background-repeat: no-repeat;
+	padding-right: 4px;
+	margin-right: 18px;
+	margin-top: -362px;
+}
+
+.trabajos2-rigth {
+	background-color: #057BDE;
+	font-size: 20px;
+	float: right;
+	width: 71%;
+	height: 345px;
+	background-repeat: no-repeat;
+	padding-right: 4px;
+	margin-right: 18px;
+	margin-top: -201px;
+	min-width: 0px;
+}
+
+.pasatiempo-left{
+	background-color: #1599F4;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	width: 47.33%;
+	height: 1328px;
+	background-size: 200px auto;
+	background-position: 84% 0%;
+	line-height: 500px;
+	margin-left: 87px;
+	background-repeat: no-repeat;
+	margin-top: 73px;
+	margin-bottom: -381px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.pasatiempo-rigth{
+	background-color: #057BDE;
+	font-size: 20px;
+	float: right;
+	width: 71%;
+	height: 1185px;
+	background-repeat: no-repeat;
+	padding-right: 4px;
+	margin-right: 18px;
+	margin-top: -834px;
+}
+
+.playlist{
+	background-color: #0EFF61;
+	font-size: 20px;
+	float: right;
+	width: 100%;
+	height: 322px;
+	margin-top: -17px;
+	align-content: center;
+	margin-right: 17px;
+}
+
+.content{
+	width: 300px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.dibujo-center{
+	margin-top: -106px;
+	margin-left: 215px;
+}
+
+.dibujo-rigth{
+	margin-top: -106px;
+	margin-left: 429px;
+}
+
+.foto-center{
+	margin-top: -192px;
+	margin-left: 179px;
+}
+
+.foto-center-rigth{
+	margin-top: -76px;
+	margin-left: -13px;
+}
+
+.foto-rigth{
+	margin-top: -198px;
+	margin-left: 393px;
+}
+
+.contacto-left {
+	background-color: #1599F4;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	width: 47.33%;
+	height: 339px;
+	background-size: 200px auto;
+	background-position: 84% 0%;
+	line-height: 500px;
+	margin-left: 87px;
+	background-repeat: no-repeat;
+	margin-top: 73px;
+	margin-bottom: -399px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.contacto-rigth {
+	background-color: #057BDE;
+	font-size: 20px;
+	float: right;
+	width: 71%;
+	height: 200px;
+	background-repeat: no-repeat;
+	padding-right: 4px;
+	margin-right: 18px;
+	margin-top: 167px;
+}
+
+.colum-left {
+	float: left;
+	height: 200px;
+	margin-left: 49px;
+	font-size: 29px;
+}
+
+.colum-center {
+	text-align: center;
+	font-size: 20px;
+	float: left;
+	width: 18.33%;
+	height: 200px;
+	background-image: url(../images/social-facebook-button-blue-icon--social-bookmark-iconset--yootheme-6.png);
+	background-size: 100px auto;
+	background-repeat: no-repeat;
+	background-position: 84% 0%;
+	line-height: 500px;
+	margin-top: 44px;
+	margin-left: 130px;
+}
+
+.colum-rigth {
+	text-align: center;
+	font-size: 40px;
+	display: inline-block;
+	width: 16%;
+	height: 200px;
+	background-image: url(../images/instagram-icon-circle-vector-logo-10.png);
+	background-size: 100px auto;
+	background-repeat: no-repeat;
+	background-position: 6% 0%;
+	line-height: 500px;
+	margin-top: 44px;
+}
+
+.texto{
+	margin-top: -188px;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.subtitulo{
+	margin-top: 17px;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 400;
+	margin-left: 37px;
+}
+
+.parrafo{
+	margin-top: 27px;
+	margin-right: 53px;
+	margin-left: 45px;
+}
+
+.copyrigth {
+	background-color: #494949;
+	height: 50px;
+	max-width: 1024px;
+}
+.body {
+	background-color: #94D3FB;
+	height: 3060px;
+	max-width: 1024px;
+	margin-top: -32px;
+}
+
+/*------------------------------Menu para trabajos -------------------------------*/
+.boton {
+	background-color: #1699F4;
+	max-width: 200px;
+	margin-left: 70px;
+	-webkit-box-shadow: -14px 14px 30px -1px rgba(8,114,190,1);
+	-moz-box-shadow: -14px 14px 30px -1px rgba(8,114,190,1);
+	box-shadow: -14px 14px 30px -1px rgba(8,114,190,1);
+	list-style-type: none; /*to remove bullets*/
+	text-align: center;
+	overflow: hidden;
+}
+
+.boton li{
+	float: left;
+	padding: 0px;
+	margin-left: -6px;
+	margin-right: -7px;
+	color: azure;
+	font-size: 20px;
+}
+
+.boton li a {
+	color:#fff;
+	text-decoration:none;
+	padding:10px 12px;
+	display: block;
+}
+
+.boton li a:hover {
+    background-color: #94D3FB;
+}
